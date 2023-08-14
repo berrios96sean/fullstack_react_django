@@ -1,1 +1,1 @@
-# fullstack_react_django
+# fullstack react and django projects 
